@@ -2,8 +2,7 @@ cask "chatda" do
   version "9.31.0"
   sha256 "64b6d39bbddf2eb05c908cf13df0304a9e52a1e4b6e6aa1040a6385b201949be"
 
-  url "https://github.com/barbellsoft/chatda-releases/releases/download/v#{version}/Chatda_universal.dmg",
-      verified: "github.com/barbellsoft/chatda-releases/"
+  url "https://github.com/barbellsoft/chatda-releases/releases/download/v#{version}/Chatda_universal.dmg"
   name "Chatda"
   desc "Search files by name and by the text inside documents"
   homepage "https://barbellsoft.com/chatda/"
