@@ -1,6 +1,6 @@
 cask "chatda" do
-  version "9.34.7"
-  sha256 "6351d6798163a9bfaeb88eeb29e3e47e46b680bf00f39a943419b2827035efa5"
+  version "9.34.8"
+  sha256 "7b49a5247ac483cfb1d08906c4c45339ffca9c53889c80aa63b5f335b4d7ec6a"
 
   url "https://github.com/barbellsoft/chatda-releases/releases/download/v#{version}/Chatda_universal.dmg"
   name "Chatda"
